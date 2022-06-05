@@ -2,9 +2,13 @@
 
 Proyecto que busca contabilizar la cantidad de automóviles transitados en las principales avenidas de Asunción y del país.
 
-## ¿Cómo usar
+## ¿Cómo usar?
 
 Luego de instalar los requerimientos, deberás colocar un video (mp4) en la carpeta 'vision' y seleccionar el mismo en el archivo 'ver.py' en la línea 17
+
+El programa funciona contando los automóviles en un video y deposita la infomación en un archivo datos.txt localizado dentro de la carpeta vision
+
+El programa funciona mejor en un video que sea de una intersección de calles y en donde el tamaño de los vehículos sea parecido a la imagen de ejemplo (ver sección Screenshots).
 
 ## Screenshots :iphone:
 
