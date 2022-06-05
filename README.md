@@ -8,7 +8,7 @@ Luego de instalar los requerimientos, deberás colocar un video (mp4) en la carp
 
 El programa funciona contando los automóviles en un video y deposita la infomación en un archivo datos.txt localizado dentro de la carpeta vision
 
-El programa funciona mejor en un video que sea de una intersección de calles y en donde el tamaño de los vehículos sea parecido a la imagen de ejemplo (ver sección Screenshots).
+El programa funciona mejor en un video que sea de una intersección de calles y en donde el tamaño de los vehículos sea parecido al de la imagen de ejemplo (ver sección Screenshots).
 
 ## Screenshots :iphone:
 
